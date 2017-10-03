@@ -7,7 +7,7 @@
     <groupId>org.dougllas</groupId>
     <artifactId>springbootmodelapp</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
 
     <properties>
         <springboot.version>1.5.7.RELEASE</springboot.version>
